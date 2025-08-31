@@ -37,9 +37,9 @@
 ---
 
 ## 👥 أعضاء الفريق
-- **Ahmed Ali Hamed Algzzar** – مونتاج وتصميم جرافيك  
-- **Sara Mohammed Mamdouh** – بحث وكتابة السيناريو  
-- **Sarah Nabil Abd El Latif Soliman** – إخراج وإنتاج  
+- **Ahmed Ali Hamed Algzzar** – Video Editor & Graphic Designer  
+- **Sara Hassan Ali Ahmed** –  Scriptwriting  & VoiceOver
+- **Sarah Nabil Abd El Latif Soliman** – Research & Production  
 
 ---
 
