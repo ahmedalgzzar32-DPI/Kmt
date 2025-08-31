@@ -38,8 +38,8 @@ The film employs **cinematic storytelling** and **professional media production*
 
 ## 👥 Team Members
 - **Ahmed Ali Hamed Algzzar** – Video Editor & Graphic Designer  
-- **Sara Mohammed Mamdouh** – Research & Scriptwriting  
-- **Sarah Nabil Abd El Latif Soliman** – Direction & Production  
+- **Sara Hassan Ali Ahmed** –  Scriptwriting  & VoiceOver
+- **Sarah Nabil Abd El Latif Soliman** – Research & Production  
 
 ---
 
